@@ -16,6 +16,14 @@
     src: url('./fonts/Jost-Regular.ttf') format('woff');
 }
 
+@font-face {
+    font-family: 'Bebas';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./fonts/Bebas-Regular.ttf') format('woff');
+}
+
+
 * {
     margin: 0;
     padding: 0;
@@ -124,7 +132,7 @@ img {
 h1,
 h2,
 h3 {
-    font-family: 'Jost', sans-serif;
+    font-family: 'Bebas', sans-serif;
     font-weight: 300;
     line-height: var(--line-height-small);
     color: var(--white);
@@ -137,14 +145,14 @@ h3 {
 }
 
 .heading-secondary {
-    font-family: 'Jost', sans-serif;
+    font-family: 'Bebas', sans-serif;
     font-weight: 300;
     line-height: var(--line-height-smaller);
     color: var(--truewhite);
 }
 
 .heading-slider {
-    font-family: 'Jost', sans-serif;
+    font-family: 'Bebas', sans-serif;
     font-weight: 400;
     line-height: 26;
     color: var(--truewhite);
@@ -160,14 +168,14 @@ h3 {
 
 
 .slider-text-primary {
-    font-family: 'Jost', sans-serif;
+    font-family: 'Bebas', sans-serif;
     font-weight: 300;
     line-height: var(--line-height-smaller);
     color: var(--truewhite);
 }
 
 .slider-text-secondary {
-    font-family: 'Jost', sans-serif;
+    font-family: 'Bebas', sans-serif;
     font-weight: 150;
     line-height: var(--line-height-smaller);
     color: #f0e9f2;
@@ -463,7 +471,7 @@ body:not(.user-is-tabbing) a:focus {
 .header__text p {
     margin: 1.5rem 0 3.5rem;
     max-width: var(--container-medium-width);
-    font-family: 'Jost', sans-serif;
+    font-family: 'Bebas', sans-serif;
     font-size: var(--font-size-medium);
 }
 
