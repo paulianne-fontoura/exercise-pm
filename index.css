@@ -20,7 +20,7 @@
     font-family: 'Bebas';
     font-style: normal;
     font-weight: 300;
-    src: url('./fonts/BebasNeue-Regular.otf') format('woff');
+    src: url('./fonts/BebasNeue-Regular.ttf') format('woff');
 }
 
 @font-face {
