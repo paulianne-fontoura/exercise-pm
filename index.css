@@ -19,7 +19,7 @@
 @font-face {
     font-family: 'Bebas';
     font-style: normal;
-    font-weight: 300;
+    font-weight: 350;
     src: url('./fonts/BebasNeue-Regular.ttf') format('woff');
 }
 
@@ -151,7 +151,7 @@ h3 {
 }
 
 .heading-secondary {
-    font-family: 'Bebas', sans-serif;
+    font-family: 'Hk Grotesk', sans-serif;
     font-weight: 300;
     line-height: var(--line-height-small);
     color: var(--truewhite);
@@ -245,7 +245,7 @@ p {
 a {
     color: var(--white);
     font-weight: 300;
-    font-family: 'Alike', sans-serif;
+    font-family: 'Hk Grotesk', sans-serif;
     transition: all .2s;
     outline: 2px solid transparent;
 }
