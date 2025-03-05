@@ -1,1 +1,1 @@
-# exercise-site
+Personal page project.
